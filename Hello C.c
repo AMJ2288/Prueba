@@ -1,10 +1,12 @@
 #include<studio.h>
 
-//Hola mundo
-
+/Hola mundo
+cruel
+*/
 int main (){
 
 printf("Hola mundo");
 return 0:
 
 }
+
